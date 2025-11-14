@@ -89,7 +89,7 @@ Video Link: <https://drive.google.com/file/d/1ejyvL-FtbI8r8s7NLHNfKNBNa0UWjd1j/v
 
 This project is available on GitHub as required:
 
-GitHub Repository: <add-repo-link-here>
+GitHub Repository: <https://github.com/rishabh-024/topic-search>
 
 ✔ Submission Requirements Covered
 
